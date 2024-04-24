@@ -1,6 +1,6 @@
 # Data_Analytics_Project
 
-##This project focuses on extracting Supply chain data from Kaggle, performing data transformation with pandas in Python, and analyzing the data using PostgreSQL.##
+This project focuses on extracting Supply chain data from Kaggle, performing data transformation with pandas in Python, and analyzing the data using PostgreSQL.
 
 
 **Project Overview**
