@@ -12,7 +12,7 @@ The project performs the following steps
 
 **Data Loading:** Loads the transformed data into a PostgreSQL database.
 
-**Data Insights:** Performs analysis using PostgreSQL to uncover trends within the retail order data.
+**Data Insights:** Performs analysis using PostgreSQL to uncover trends within the Supply chain data.
 
 # **Technologies Used:**
 
