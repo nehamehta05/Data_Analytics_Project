@@ -1,4 +1,3 @@
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2432186771051814/3482485476518591/3984633536797903/latest.html
 # Data_Analytics_Project
 
 This project focuses on extracting Supply chain data from Kaggle, performing data transformation with pandas in Python, and analyzing the data using PostgreSQL.
